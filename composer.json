@@ -1,0 +1,9 @@
+{
+    "name": "qi/app_movies",
+    "autoload": {
+        "psr-4": {
+            "APP\\": "src/"
+        }
+    },
+    "require": {}
+}
